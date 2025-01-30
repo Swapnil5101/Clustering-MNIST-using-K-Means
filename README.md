@@ -16,4 +16,6 @@ a sharp drop of WCSS.
 
 ## PCA and GMM clustering results:
 
+Note: The last column is the one with 128 principal components (& not 64)!
+
 ![PCA_GMM_clusters](https://github.com/user-attachments/assets/409a11e3-d3e3-44c8-9df0-4475c56eac3c)
