@@ -1,4 +1,4 @@
-# Clustering-MNIST-using-K-Means
+# Clustering-MNIST-using-K-Means and GMMs
 Dataset can be found at https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
 
 ## K-Means clustering results:
