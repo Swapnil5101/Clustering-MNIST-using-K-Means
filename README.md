@@ -9,7 +9,11 @@ Dataset can be found at https://www.kaggle.com/datasets/oddrationale/mnist-in-cs
 
 ![imgonline-com-ua-twotoone-dAK1K34Um7](https://github.com/user-attachments/assets/2dce69cd-bd14-46ff-a5b6-12955753a8d9)
 
+## PCA and GMM clustering results:
 
+![PCA_GMM_clusters](https://github.com/user-attachments/assets/409a11e3-d3e3-44c8-9df0-4475c56eac3c)
 
+WCSS(within-cluster sum of squares): At the right k-value usually we should observe
+a sharp drop of WCSS.
 
-
+![WSS_vs_K](https://github.com/user-attachments/assets/3ae224d6-ebfb-4067-a6a8-abb691c03243)
